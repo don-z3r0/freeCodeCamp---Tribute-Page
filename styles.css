@@ -16,8 +16,8 @@ h1 {
 
 #image {
   display: block;
-  max-width: 100%;
-  height: auto;
+  max-width: 38rem;
+  height: 26rem;
   margin: 0 auto;
 }
 
